@@ -10,7 +10,7 @@ print()
 
 #definindo as variáveis que estarão no texto final
 dia_da_semana = input("Digite um dia da semana: ")
-sentimento = input("Digite um sentimento: ")
+sentimento = input("Digite um sentimento no singular: ")
 data_especial = input("Digite uma data especial: ")
 verbo1 = input("Digite um verbo: ")
 verbo2 = input("Digite outro verbo: ")
